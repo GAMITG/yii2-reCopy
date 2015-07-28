@@ -6,7 +6,7 @@ use yii\base\Component;
 use yii\base\Widget;
 use yii\web\View;
 use yii\helpers\Html;
-use app\assets_b\ReCopyAppAsset;
+use app\assets\ReCopyAppAsset;
 
 class ReCopyWidget extends Widget {
 
